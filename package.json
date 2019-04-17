@@ -1,0 +1,19 @@
+{
+  "name": "ncia_20190417",
+  "version": "1.0.0",
+  "description": "node_npmjs_deploy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimmy374/ncia_20190417.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimmy374/ncia_20190417/issues"
+  },
+  "homepage": "https://github.com/jimmy374/ncia_20190417#readme"
+}
